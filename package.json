@@ -1,0 +1,42 @@
+{
+  "name": "setops",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:dev": "electron .",
+    "electron:build": "vite build && electron-builder"
+  },
+  "build": {
+    "appId": "com.setops.app",
+    "productName": "SetOps",
+    "copyright": "Copyright © 2026 SetOps",
+    "directories": {
+      "output": "dist_electron"
+    },
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ]
+    }
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "element-plus": "^2.8.5",
+    "pinia": "^2.2.6",
+    "axios": "^1.7.9",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^5.0.10",
+    "electron": "^28.2.0",
+    "electron-builder": "^24.9.1"
+  }
+}

@@ -1,0 +1,428 @@
+2026-01-29 13:07:54,969 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 13:31:49,167 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 13:52:29,369 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 14:01:52,261 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 14:05:20,051 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 14:06:41,099 - SetOpsUI - INFO - 开始选择文件到数据集 A
+2026-01-29 14:06:46,942 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 A: ['C:/Users/iswhat/Desktop/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv']
+2026-01-29 14:06:46,942 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 A
+2026-01-29 14:06:46,943 - SetOpsUI - INFO - 数据集 A 现在包含 1 个文件
+2026-01-29 14:06:46,998 - SetOpsUI - ERROR - 添加文件到列表时出错: 'NoneType' object has no attribute 'setToolTip'
+2026-01-29 14:11:38,472 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 14:12:16,131 - SetOpsUI - INFO - 开始选择文件到数据集 A
+2026-01-29 14:12:23,017 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 A: ['C:/Users/iswhat/Desktop/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv']
+2026-01-29 14:12:23,017 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 A
+2026-01-29 14:12:23,018 - SetOpsUI - INFO - 数据集 A 现在包含 1 个文件
+2026-01-29 14:12:23,067 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 A
+2026-01-29 14:12:46,731 - SetOpsUI - INFO - 开始选择文件到数据集 B
+2026-01-29 14:12:48,622 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 B: ['C:/Users/iswhat/Desktop/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv']
+2026-01-29 14:12:48,622 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 B
+2026-01-29 14:12:48,622 - SetOpsUI - INFO - 数据集 B 现在包含 1 个文件
+2026-01-29 14:12:48,672 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 B
+2026-01-29 14:13:05,884 - SetOpsUI - INFO - 开始处理数据
+2026-01-29 14:13:05,884 - SetOpsUI - INFO - 数据集 1 包含 1 个文件
+2026-01-29 14:13:05,884 - SetOpsUI - INFO - 数据集 2 包含 1 个文件
+2026-01-29 14:13:05,884 - SetOpsUI - INFO - 执行操作：intersection
+2026-01-29 14:13:05,885 - SetOpsUI - INFO - 输出路径：C:\Users\iswhat\Desktop\test
+2026-01-29 14:13:05,885 - SetOpsUI - INFO - 导出格式：csv
+2026-01-29 14:13:05,888 - SetOpsUI - INFO - 启动数据处理工作线程
+2026-01-29 14:13:05,890 - DataProcessor - INFO - 开始初始化临时数据库
+2026-01-29 14:13:05,892 - DataProcessor - INFO - 创建临时数据库文件: C:\Users\iswhat\AppData\Local\Temp\tmp0qj9z2jr.db
+2026-01-29 14:13:05,893 - DataProcessor - INFO - 连接数据库
+2026-01-29 14:13:05,894 - DataProcessor - INFO - 数据库连接成功
+2026-01-29 14:13:05,894 - DataProcessor - INFO - 开始优化SQLite配置
+2026-01-29 14:13:06,002 - DataProcessor - INFO - SQLite配置优化完成
+2026-01-29 14:13:06,002 - DataProcessor - INFO - 事务开始
+2026-01-29 14:13:07,451 - DataProcessor - INFO - 开始关闭数据库连接并清理资源
+2026-01-29 14:13:07,451 - DataProcessor - INFO - 标记为停止处理
+2026-01-29 14:13:07,451 - DataProcessor - INFO - 开始关闭数据库连接
+2026-01-29 14:13:07,451 - DataProcessor - INFO - 提交未完成的事务
+2026-01-29 14:13:07,455 - DataProcessor - INFO - 数据库连接关闭成功
+2026-01-29 14:13:07,456 - DataProcessor - INFO - 数据库连接对象清理完成
+2026-01-29 14:13:07,456 - DataProcessor - INFO - 开始清理临时文件: C:\Users\iswhat\AppData\Local\Temp\tmp0qj9z2jr.db
+2026-01-29 14:13:07,457 - DataProcessor - INFO - 第 1 次尝试删除临时文件成功
+2026-01-29 14:13:07,458 - DataProcessor - INFO - 临时文件 C:\Users\iswhat\AppData\Local\Temp\tmp0qj9z2jr.db 删除成功
+2026-01-29 14:13:07,458 - DataProcessor - INFO - 临时文件路径清理完成
+2026-01-29 14:13:07,458 - DataProcessor - INFO - 开始关闭线程池
+2026-01-29 14:13:07,458 - DataProcessor - INFO - 线程池关闭成功
+2026-01-29 14:13:07,458 - DataProcessor - INFO - 线程池对象清理完成
+2026-01-29 14:13:07,459 - DataProcessor - INFO - 开始强制垃圾回收
+2026-01-29 14:13:07,480 - DataProcessor - INFO - 垃圾回收完成
+2026-01-29 14:13:07,480 - DataProcessor - INFO - 数据库连接关闭和资源清理完成
+2026-01-29 14:14:49,076 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 14:17:09,809 - SetOpsUI - INFO - 开始选择文件到数据集 A
+2026-01-29 14:17:18,099 - SetOpsUI - INFO - 文件选择对话框被取消
+2026-01-29 14:24:34,415 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 14:59:39,714 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:01:51,550 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:05:02,573 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:05:02,595 - SetOpsUI - INFO - 创建拖拽框架，ID: A, 对象名: drop_frame_A
+2026-01-29 15:05:02,596 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 15:05:02,977 - SetOpsUI - INFO - 创建拖拽框架，ID: B, 对象名: drop_frame_B
+2026-01-29 15:05:02,977 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 15:06:05,618 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:06:05,640 - SetOpsUI - INFO - 创建拖拽框架，ID: A, 对象名: drop_frame_A
+2026-01-29 15:06:05,640 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 15:06:06,048 - SetOpsUI - INFO - 创建拖拽框架，ID: B, 对象名: drop_frame_B
+2026-01-29 15:06:06,049 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 15:09:31,899 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:09:31,917 - SetOpsUI - INFO - 创建拖拽框架，ID: A, 对象名: drop_frame_A
+2026-01-29 15:09:31,917 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 15:09:34,379 - SetOpsUI - INFO - 创建拖拽框架，ID: B, 对象名: drop_frame_B
+2026-01-29 15:09:34,379 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 15:51:51,356 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:51:51,372 - SetOpsUI - INFO - 创建拖拽框架，ID: A, 对象名: drop_frame_A
+2026-01-29 15:51:51,372 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 15:52:50,356 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:52:50,373 - SetOpsUI - INFO - 创建拖拽框架，ID: A, 对象名: drop_frame_A
+2026-01-29 15:52:50,373 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 15:55:38,734 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 15:55:38,759 - SetOpsUI - INFO - 创建拖拽框架，ID: A, 对象名: drop_frame_A
+2026-01-29 15:55:38,760 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 15:55:39,144 - SetOpsUI - INFO - 创建拖拽框架，ID: B, 对象名: drop_frame_B
+2026-01-29 15:55:39,145 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 16:41:41,122 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 16:41:41,129 - SetOpsUI - INFO - DropFrame initialized for dataset A, acceptDrops: True
+2026-01-29 16:41:41,137 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 16:41:43,314 - SetOpsUI - INFO - DropFrame initialized for dataset B, acceptDrops: True
+2026-01-29 16:41:43,320 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 16:44:45,762 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 16:44:45,770 - SetOpsUI - INFO - DropFrame initialized for dataset A, acceptDrops: True
+2026-01-29 16:44:45,777 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 16:44:47,617 - SetOpsUI - INFO - DropFrame initialized for dataset B, acceptDrops: True
+2026-01-29 16:44:47,623 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:01:30,472 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 17:01:30,485 - SetOpsUI - INFO - DropWidget initialized for dataset A, acceptDrops: True
+2026-01-29 17:01:30,492 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 17:01:31,307 - SetOpsUI - INFO - DropWidget initialized for dataset B, acceptDrops: True
+2026-01-29 17:01:31,313 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:06:39,179 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 17:06:39,187 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 17:06:39,197 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 17:06:41,481 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 17:06:41,485 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:06:56,714 - SetOpsUI - INFO - 开始选择 folder 到数据集 A
+2026-01-29 17:07:08,661 - SetOpsUI - INFO - 成功选择文件夹到数据集 A: C:/Users/iswhat/Desktop/test
+2026-01-29 17:07:08,662 - SetOpsUI - INFO - Scanning folder: C:/Users/iswhat/Desktop/test
+2026-01-29 17:07:08,662 - SetOpsUI - INFO - Supported extensions: ['.csv', '.xlsx', '.xls', '.txt']
+2026-01-29 17:07:08,663 - SetOpsUI - INFO - Processing directory: C:/Users/iswhat/Desktop/test, found 2 files
+2026-01-29 17:07:08,663 - SetOpsUI - INFO - Added file: C:/Users/iswhat/Desktop/test\part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv
+2026-01-29 17:07:08,663 - SetOpsUI - INFO - Added file: C:/Users/iswhat/Desktop/test\part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv
+2026-01-29 17:07:08,663 - SetOpsUI - INFO - Processing directory: C:/Users/iswhat/Desktop/test\stats, found 0 files
+2026-01-29 17:07:08,664 - SetOpsUI - INFO - Total files found in folder: 2
+2026-01-29 17:07:08,664 - SetOpsUI - INFO - 开始添加 2 个文件到数据集 A
+2026-01-29 17:07:08,664 - SetOpsUI - INFO - 数据集 A 现在包含 2 个文件
+2026-01-29 17:07:08,758 - SetOpsUI - INFO - 成功添加 2 个文件到数据集 A
+2026-01-29 17:21:14,083 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 17:21:14,095 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 17:21:14,102 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 17:21:17,512 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 17:21:17,517 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:25:28,482 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 17:25:28,531 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 17:25:28,539 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 17:25:31,971 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 17:25:31,976 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:25:36,185 - SetOpsUI - INFO - 开始选择 folder 到数据集 A
+2026-01-29 17:25:41,531 - SetOpsUI - INFO - 成功选择文件夹到数据集 A: C:/Users/iswhat/Desktop/test
+2026-01-29 17:25:41,531 - SetOpsUI - INFO - Scanning folder: C:/Users/iswhat/Desktop/test
+2026-01-29 17:25:41,532 - SetOpsUI - INFO - Supported extensions: ['.csv', '.xlsx', '.xls', '.txt']
+2026-01-29 17:25:41,532 - SetOpsUI - INFO - Processing directory: C:/Users/iswhat/Desktop/test, found 2 files
+2026-01-29 17:25:41,532 - SetOpsUI - INFO - Added file: C:/Users/iswhat/Desktop/test\part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv
+2026-01-29 17:25:41,533 - SetOpsUI - INFO - Added file: C:/Users/iswhat/Desktop/test\part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv
+2026-01-29 17:25:41,533 - SetOpsUI - INFO - Processing directory: C:/Users/iswhat/Desktop/test\stats, found 0 files
+2026-01-29 17:25:41,533 - SetOpsUI - INFO - Total files found in folder: 2
+2026-01-29 17:25:41,533 - SetOpsUI - INFO - 开始添加 2 个文件到数据集 A
+2026-01-29 17:25:41,534 - SetOpsUI - INFO - 数据集 A 现在包含 2 个文件
+2026-01-29 17:25:41,628 - SetOpsUI - INFO - 成功添加 2 个文件到数据集 A
+2026-01-29 17:30:08,308 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 17:30:08,325 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 17:30:08,333 - SetOpsUI - INFO - File list widget set for dataset A
+2026-01-29 17:30:08,333 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 17:30:08,349 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 17:30:08,355 - SetOpsUI - INFO - File list widget set for dataset B
+2026-01-29 17:30:08,355 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:30:20,988 - SetOpsUI - INFO - 开始选择 file 到数据集 A
+2026-01-29 17:30:32,257 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 A: ['C:/Users/iswhat/Desktop/test/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv']
+2026-01-29 17:30:32,257 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 A
+2026-01-29 17:30:32,258 - SetOpsUI - INFO - 数据集 A 现在包含 1 个文件
+2026-01-29 17:30:32,317 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 A
+2026-01-29 17:30:41,780 - SetOpsUI - INFO - 开始选择 file 到数据集 B
+2026-01-29 17:30:43,511 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 B: ['C:/Users/iswhat/Desktop/test/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv']
+2026-01-29 17:30:43,512 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 B
+2026-01-29 17:30:43,512 - SetOpsUI - INFO - 数据集 B 现在包含 1 个文件
+2026-01-29 17:30:43,576 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 B
+2026-01-29 17:30:55,073 - SetOpsUI - INFO - 开始处理数据
+2026-01-29 17:30:55,074 - SetOpsUI - INFO - 数据集 1 包含 1 个文件
+2026-01-29 17:30:55,075 - SetOpsUI - INFO - 数据集 2 包含 1 个文件
+2026-01-29 17:30:55,075 - SetOpsUI - INFO - 执行操作：intersection
+2026-01-29 17:30:55,075 - SetOpsUI - INFO - 输出路径：C:\Users\iswhat\Desktop\test\stats
+2026-01-29 17:30:55,075 - SetOpsUI - INFO - 导出格式：csv
+2026-01-29 17:30:55,078 - SetOpsUI - INFO - 启动数据处理工作线程
+2026-01-29 17:30:55,079 - DataProcessor - INFO - 开始初始化临时数据库
+2026-01-29 17:30:55,082 - DataProcessor - INFO - 创建临时数据库文件: C:\Users\iswhat\AppData\Local\Temp\tmpm0y_u6_l.db
+2026-01-29 17:30:55,082 - DataProcessor - INFO - 连接数据库
+2026-01-29 17:30:55,084 - DataProcessor - INFO - 数据库连接成功
+2026-01-29 17:30:55,084 - DataProcessor - INFO - 开始优化SQLite配置
+2026-01-29 17:30:55,189 - DataProcessor - INFO - SQLite配置优化完成
+2026-01-29 17:30:55,189 - DataProcessor - INFO - 事务开始
+2026-01-29 17:30:55,191 - DataProcessor - INFO - 开始导入文件到表 table_a
+2026-01-29 17:30:55,192 - DataProcessor - INFO - 开始内存使用: 211.34 MB
+2026-01-29 17:30:55,192 - DataProcessor - INFO - 文件数量: 1
+2026-01-29 17:30:55,192 - DataProcessor - INFO - 开始处理文件 1/1: part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv
+2026-01-29 17:30:55,192 - DataProcessor - INFO - 文件大小: 5.24 MB
+2026-01-29 17:30:55,193 - DataProcessor - INFO - 使用CSV读取器
+2026-01-29 17:30:55,375 - DataProcessor - INFO - 处理数据块 1，大小: 16678 行
+2026-01-29 17:30:55,453 - DataProcessor - INFO - 创建表: table_a
+2026-01-29 17:30:55,457 - DataProcessor - INFO - 表创建成功
+2026-01-29 17:30:55,484 - DataProcessor - INFO - 批量插入 16678 行数据
+2026-01-29 17:30:55,613 - DataProcessor - INFO - 当前内存使用: 238.57 MB，增长: 27.23 MB
+2026-01-29 17:30:55,617 - DataProcessor - INFO - 提交最终事务
+2026-01-29 17:30:56,027 - DataProcessor - INFO - 事务重新开始
+2026-01-29 17:30:56,028 - DataProcessor - INFO - 文件处理完成，导入 16678 行数据
+2026-01-29 17:30:56,028 - DataProcessor - INFO - 文件导入完成
+2026-01-29 17:30:56,028 - DataProcessor - INFO - 总处理时间: 0.84 秒
+2026-01-29 17:30:56,028 - DataProcessor - INFO - 总导入行数: 16678
+2026-01-29 17:30:56,028 - DataProcessor - INFO - 处理速度: 19937.87 行/秒
+2026-01-29 17:30:56,029 - DataProcessor - INFO - 内存使用变化: 211.34 MB → 234.75 MB (增长: 23.41 MB)
+2026-01-29 17:30:56,029 - DataProcessor - INFO - 成功处理文件数: 1/1
+2026-01-29 17:30:56,608 - DataProcessor - INFO - 开始导入文件到表 table_b
+2026-01-29 17:30:56,610 - DataProcessor - INFO - 开始内存使用: 239.53 MB
+2026-01-29 17:30:56,610 - DataProcessor - INFO - 文件数量: 1
+2026-01-29 17:30:56,610 - DataProcessor - INFO - 开始处理文件 1/1: part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv
+2026-01-29 17:30:56,610 - DataProcessor - INFO - 文件大小: 5.24 MB
+2026-01-29 17:30:56,611 - DataProcessor - INFO - 使用CSV读取器
+2026-01-29 17:30:56,782 - DataProcessor - INFO - 处理数据块 1，大小: 16678 行
+2026-01-29 17:30:56,846 - DataProcessor - INFO - 创建表: table_b
+2026-01-29 17:30:56,846 - DataProcessor - INFO - 表创建成功
+2026-01-29 17:30:56,874 - DataProcessor - INFO - 批量插入 16678 行数据
+2026-01-29 17:30:57,063 - DataProcessor - INFO - 当前内存使用: 254.00 MB，增长: 14.47 MB
+2026-01-29 17:30:57,067 - DataProcessor - INFO - 提交最终事务
+2026-01-29 17:30:57,516 - DataProcessor - INFO - 事务重新开始
+2026-01-29 17:30:57,516 - DataProcessor - INFO - 文件处理完成，导入 16678 行数据
+2026-01-29 17:30:57,517 - DataProcessor - INFO - 文件导入完成
+2026-01-29 17:30:57,517 - DataProcessor - INFO - 总处理时间: 0.91 秒
+2026-01-29 17:30:57,517 - DataProcessor - INFO - 总导入行数: 16678
+2026-01-29 17:30:57,517 - DataProcessor - INFO - 处理速度: 18364.58 行/秒
+2026-01-29 17:30:57,517 - DataProcessor - INFO - 内存使用变化: 239.53 MB → 249.02 MB (增长: 9.49 MB)
+2026-01-29 17:30:57,518 - DataProcessor - INFO - 成功处理文件数: 1/1
+2026-01-29 17:30:59,170 - DataProcessor - INFO - 开始关闭数据库连接并清理资源
+2026-01-29 17:30:59,171 - DataProcessor - INFO - 标记为停止处理
+2026-01-29 17:30:59,171 - DataProcessor - INFO - 开始关闭数据库连接
+2026-01-29 17:30:59,171 - DataProcessor - INFO - 提交未完成的事务
+2026-01-29 17:30:59,183 - DataProcessor - INFO - 数据库连接关闭成功
+2026-01-29 17:30:59,184 - DataProcessor - INFO - 数据库连接对象清理完成
+2026-01-29 17:30:59,184 - DataProcessor - INFO - 开始清理临时文件: C:\Users\iswhat\AppData\Local\Temp\tmpm0y_u6_l.db
+2026-01-29 17:30:59,189 - DataProcessor - INFO - 第 1 次尝试删除临时文件成功
+2026-01-29 17:30:59,190 - DataProcessor - INFO - 临时文件 C:\Users\iswhat\AppData\Local\Temp\tmpm0y_u6_l.db 删除成功
+2026-01-29 17:30:59,190 - DataProcessor - INFO - 临时文件路径清理完成
+2026-01-29 17:30:59,190 - DataProcessor - INFO - 开始关闭线程池
+2026-01-29 17:30:59,190 - DataProcessor - INFO - 线程池工作队列清空成功
+2026-01-29 17:30:59,191 - DataProcessor - INFO - 线程池关闭成功
+2026-01-29 17:30:59,191 - DataProcessor - INFO - 线程池对象清理完成
+2026-01-29 17:30:59,191 - DataProcessor - INFO - 清理其他属性完成
+2026-01-29 17:30:59,191 - DataProcessor - INFO - 开始强制垃圾回收
+2026-01-29 17:30:59,217 - DataProcessor - INFO - 第 1 次垃圾回收完成
+2026-01-29 17:30:59,239 - DataProcessor - INFO - 第 2 次垃圾回收完成
+2026-01-29 17:30:59,259 - DataProcessor - INFO - 第 3 次垃圾回收完成
+2026-01-29 17:30:59,259 - DataProcessor - INFO - 循环引用清理完成
+2026-01-29 17:30:59,259 - DataProcessor - INFO - 数据库连接关闭和资源清理完成
+2026-01-29 17:35:01,349 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 17:35:01,357 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 17:35:01,365 - SetOpsUI - INFO - File list widget set for dataset A
+2026-01-29 17:35:01,365 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 17:35:01,379 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 17:35:01,385 - SetOpsUI - INFO - File list widget set for dataset B
+2026-01-29 17:35:01,385 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:35:05,655 - SetOpsUI - INFO - 开始选择 file 到数据集 A
+2026-01-29 17:35:13,261 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 A: ['C:/Users/iswhat/Desktop/test/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv']
+2026-01-29 17:35:13,262 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 A
+2026-01-29 17:35:13,262 - SetOpsUI - INFO - 数据集 A 现在包含 1 个文件
+2026-01-29 17:35:13,328 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 A
+2026-01-29 17:35:16,827 - SetOpsUI - INFO - 开始选择 file 到数据集 B
+2026-01-29 17:35:19,568 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 B: ['C:/Users/iswhat/Desktop/test/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv']
+2026-01-29 17:35:19,568 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 B
+2026-01-29 17:35:19,569 - SetOpsUI - INFO - 数据集 B 现在包含 1 个文件
+2026-01-29 17:35:19,655 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 B
+2026-01-29 17:35:31,598 - SetOpsUI - INFO - 开始处理数据
+2026-01-29 17:35:31,599 - SetOpsUI - INFO - 数据集 1 包含 1 个文件
+2026-01-29 17:35:31,599 - SetOpsUI - INFO - 数据集 2 包含 1 个文件
+2026-01-29 17:35:31,599 - SetOpsUI - INFO - 执行操作：intersection
+2026-01-29 17:35:31,599 - SetOpsUI - INFO - 输出路径：C:\Users\iswhat\Desktop\test\stats
+2026-01-29 17:35:31,599 - SetOpsUI - INFO - 导出格式：csv
+2026-01-29 17:35:31,602 - SetOpsUI - INFO - 启动数据处理工作线程
+2026-01-29 17:35:31,604 - DataProcessor - INFO - 开始初始化临时数据库
+2026-01-29 17:35:31,607 - DataProcessor - INFO - 创建临时数据库文件: C:\Users\iswhat\AppData\Local\Temp\tmpovigi7zw.db
+2026-01-29 17:35:31,607 - DataProcessor - INFO - 连接数据库
+2026-01-29 17:35:31,608 - DataProcessor - INFO - 数据库连接成功
+2026-01-29 17:35:31,608 - DataProcessor - INFO - 开始优化SQLite配置
+2026-01-29 17:35:31,716 - DataProcessor - INFO - SQLite配置优化完成
+2026-01-29 17:35:31,717 - DataProcessor - INFO - 事务开始
+2026-01-29 17:35:31,719 - DataProcessor - INFO - 开始导入文件到表 table_a
+2026-01-29 17:35:31,719 - DataProcessor - INFO - 开始内存使用: 221.20 MB
+2026-01-29 17:35:31,720 - DataProcessor - INFO - 文件数量: 1
+2026-01-29 17:35:31,720 - DataProcessor - INFO - 开始处理文件 1/1: part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv
+2026-01-29 17:35:31,720 - DataProcessor - INFO - 文件大小: 5.24 MB
+2026-01-29 17:35:31,720 - DataProcessor - INFO - 使用CSV读取器
+2026-01-29 17:35:31,912 - DataProcessor - INFO - 处理数据块 1，大小: 16678 行
+2026-01-29 17:35:31,979 - DataProcessor - INFO - 创建表: table_a
+2026-01-29 17:35:31,982 - DataProcessor - INFO - 表创建成功
+2026-01-29 17:35:32,011 - DataProcessor - INFO - 批量插入 16678 行数据
+2026-01-29 17:35:32,142 - DataProcessor - INFO - 当前内存使用: 249.05 MB，增长: 27.86 MB
+2026-01-29 17:35:32,146 - DataProcessor - INFO - 提交最终事务
+2026-01-29 17:35:32,627 - DataProcessor - INFO - 事务重新开始
+2026-01-29 17:35:32,627 - DataProcessor - INFO - 文件处理完成，导入 16678 行数据
+2026-01-29 17:35:32,627 - DataProcessor - INFO - 文件导入完成
+2026-01-29 17:35:32,628 - DataProcessor - INFO - 总处理时间: 0.91 秒
+2026-01-29 17:35:32,628 - DataProcessor - INFO - 总导入行数: 16678
+2026-01-29 17:35:32,628 - DataProcessor - INFO - 处理速度: 18360.76 行/秒
+2026-01-29 17:35:32,628 - DataProcessor - INFO - 内存使用变化: 221.20 MB → 245.19 MB (增长: 24.00 MB)
+2026-01-29 17:35:32,628 - DataProcessor - INFO - 成功处理文件数: 1/1
+2026-01-29 17:35:33,209 - DataProcessor - INFO - 开始导入文件到表 table_b
+2026-01-29 17:35:33,210 - DataProcessor - INFO - 开始内存使用: 250.87 MB
+2026-01-29 17:35:33,211 - DataProcessor - INFO - 文件数量: 1
+2026-01-29 17:35:33,211 - DataProcessor - INFO - 开始处理文件 1/1: part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv
+2026-01-29 17:35:33,212 - DataProcessor - INFO - 文件大小: 5.24 MB
+2026-01-29 17:35:33,212 - DataProcessor - INFO - 使用CSV读取器
+2026-01-29 17:35:33,411 - DataProcessor - INFO - 处理数据块 1，大小: 16678 行
+2026-01-29 17:35:33,479 - DataProcessor - INFO - 创建表: table_b
+2026-01-29 17:35:33,480 - DataProcessor - INFO - 表创建成功
+2026-01-29 17:35:33,511 - DataProcessor - INFO - 批量插入 16678 行数据
+2026-01-29 17:35:33,716 - DataProcessor - INFO - 当前内存使用: 264.59 MB，增长: 13.72 MB
+2026-01-29 17:35:33,720 - DataProcessor - INFO - 提交最终事务
+2026-01-29 17:35:34,240 - DataProcessor - INFO - 事务重新开始
+2026-01-29 17:35:34,240 - DataProcessor - INFO - 文件处理完成，导入 16678 行数据
+2026-01-29 17:35:34,241 - DataProcessor - INFO - 文件导入完成
+2026-01-29 17:35:34,241 - DataProcessor - INFO - 总处理时间: 1.03 秒
+2026-01-29 17:35:34,241 - DataProcessor - INFO - 总导入行数: 16678
+2026-01-29 17:35:34,241 - DataProcessor - INFO - 处理速度: 16170.56 行/秒
+2026-01-29 17:35:34,241 - DataProcessor - INFO - 内存使用变化: 250.87 MB → 260.06 MB (增长: 9.19 MB)
+2026-01-29 17:35:34,241 - DataProcessor - INFO - 成功处理文件数: 1/1
+2026-01-29 17:35:36,825 - DataProcessor - INFO - 开始关闭数据库连接并清理资源
+2026-01-29 17:35:36,826 - DataProcessor - INFO - 标记为停止处理
+2026-01-29 17:35:36,826 - DataProcessor - INFO - 开始关闭数据库连接
+2026-01-29 17:35:36,877 - DataProcessor - INFO - 提交未完成的事务
+2026-01-29 17:35:36,994 - DataProcessor - INFO - 数据库连接关闭成功
+2026-01-29 17:35:36,995 - DataProcessor - INFO - 数据库连接对象清理完成
+2026-01-29 17:35:36,995 - DataProcessor - INFO - 开始清理临时文件: C:\Users\iswhat\AppData\Local\Temp\tmpovigi7zw.db
+2026-01-29 17:35:37,003 - DataProcessor - INFO - 第 1 次尝试删除临时文件成功
+2026-01-29 17:35:37,004 - DataProcessor - INFO - 临时文件 C:\Users\iswhat\AppData\Local\Temp\tmpovigi7zw.db 删除成功
+2026-01-29 17:35:37,004 - DataProcessor - INFO - 临时文件路径清理完成
+2026-01-29 17:35:37,005 - DataProcessor - INFO - 开始关闭线程池
+2026-01-29 17:35:37,005 - DataProcessor - INFO - 线程池工作队列清空成功
+2026-01-29 17:35:37,005 - DataProcessor - INFO - 线程池关闭成功
+2026-01-29 17:35:37,006 - DataProcessor - INFO - 线程池对象清理完成
+2026-01-29 17:35:37,006 - DataProcessor - INFO - 清理其他属性完成
+2026-01-29 17:35:37,006 - DataProcessor - INFO - 开始强制垃圾回收
+2026-01-29 17:35:37,041 - DataProcessor - INFO - 第 1 次垃圾回收完成
+2026-01-29 17:35:37,094 - DataProcessor - INFO - 第 2 次垃圾回收完成
+2026-01-29 17:35:37,141 - DataProcessor - INFO - 第 3 次垃圾回收完成
+2026-01-29 17:35:37,162 - DataProcessor - INFO - 循环引用清理完成
+2026-01-29 17:35:37,165 - DataProcessor - INFO - 数据库连接关闭和资源清理完成
+2026-01-29 17:46:46,416 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 17:46:46,425 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 17:46:46,433 - SetOpsUI - INFO - File list widget set for dataset A
+2026-01-29 17:46:46,434 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 17:46:46,447 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 17:46:46,453 - SetOpsUI - INFO - File list widget set for dataset B
+2026-01-29 17:46:46,453 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 17:46:56,660 - SetOpsUI - INFO - 开始选择 file 到数据集 A
+2026-01-29 17:47:09,849 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 A: ['C:/Users/iswhat/Desktop/test/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv']
+2026-01-29 17:47:09,849 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 A
+2026-01-29 17:47:09,850 - SetOpsUI - INFO - 数据集 A 现在包含 1 个文件
+2026-01-29 17:47:09,921 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 A
+2026-01-29 17:47:13,655 - SetOpsUI - INFO - 开始选择 file 到数据集 B
+2026-01-29 17:47:16,438 - SetOpsUI - INFO - 成功选择 1 个文件到数据集 B: ['C:/Users/iswhat/Desktop/test/part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv']
+2026-01-29 17:47:16,439 - SetOpsUI - INFO - 开始添加 1 个文件到数据集 B
+2026-01-29 17:47:16,439 - SetOpsUI - INFO - 数据集 B 现在包含 1 个文件
+2026-01-29 17:47:16,505 - SetOpsUI - INFO - 成功添加 1 个文件到数据集 B
+2026-01-29 17:47:29,630 - SetOpsUI - INFO - 开始处理数据
+2026-01-29 17:47:29,631 - SetOpsUI - INFO - 数据集 1 包含 1 个文件
+2026-01-29 17:47:29,631 - SetOpsUI - INFO - 数据集 2 包含 1 个文件
+2026-01-29 17:47:29,631 - SetOpsUI - INFO - 执行操作：intersection
+2026-01-29 17:47:29,631 - SetOpsUI - INFO - 输出路径：C:\Users\iswhat\Desktop\test\stats
+2026-01-29 17:47:29,631 - SetOpsUI - INFO - 导出格式：csv
+2026-01-29 17:47:29,634 - SetOpsUI - INFO - 启动数据处理工作线程
+2026-01-29 17:47:29,636 - DataProcessor - INFO - 开始初始化临时数据库
+2026-01-29 17:47:29,638 - DataProcessor - INFO - 创建临时数据库文件: C:\Users\iswhat\AppData\Local\Temp\tmpctfr6lxl.db
+2026-01-29 17:47:29,638 - DataProcessor - INFO - 连接数据库
+2026-01-29 17:47:29,640 - DataProcessor - INFO - 数据库连接成功
+2026-01-29 17:47:29,640 - DataProcessor - INFO - 开始优化SQLite配置
+2026-01-29 17:47:29,802 - DataProcessor - INFO - SQLite配置优化完成
+2026-01-29 17:47:29,803 - DataProcessor - INFO - 事务开始
+2026-01-29 17:47:29,806 - DataProcessor - INFO - 开始导入文件到表 table_a
+2026-01-29 17:47:29,806 - DataProcessor - INFO - 开始内存使用: 219.68 MB
+2026-01-29 17:47:29,806 - DataProcessor - INFO - 文件数量: 1
+2026-01-29 17:47:29,806 - DataProcessor - INFO - 开始处理文件 1/1: part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000 - 副本.csv
+2026-01-29 17:47:29,807 - DataProcessor - INFO - 文件大小: 5.24 MB
+2026-01-29 17:47:29,807 - DataProcessor - INFO - 使用CSV读取器
+2026-01-29 17:47:30,000 - DataProcessor - INFO - 处理数据块 1，大小: 16678 行
+2026-01-29 17:47:30,069 - DataProcessor - INFO - 创建表: table_a
+2026-01-29 17:47:30,073 - DataProcessor - INFO - 表创建成功
+2026-01-29 17:47:30,103 - DataProcessor - INFO - 批量插入 16678 行数据
+2026-01-29 17:47:30,235 - DataProcessor - INFO - 当前内存使用: 248.35 MB，增长: 28.66 MB
+2026-01-29 17:47:30,238 - DataProcessor - INFO - 提交最终事务
+2026-01-29 17:47:30,836 - DataProcessor - INFO - 事务重新开始
+2026-01-29 17:47:30,836 - DataProcessor - INFO - 文件处理完成，导入 16678 行数据
+2026-01-29 17:47:30,837 - DataProcessor - INFO - 文件导入完成
+2026-01-29 17:47:30,837 - DataProcessor - INFO - 总处理时间: 1.03 秒
+2026-01-29 17:47:30,837 - DataProcessor - INFO - 总导入行数: 16678
+2026-01-29 17:47:30,838 - DataProcessor - INFO - 处理速度: 16175.13 行/秒
+2026-01-29 17:47:30,838 - DataProcessor - INFO - 内存使用变化: 219.68 MB → 244.75 MB (增长: 25.07 MB)
+2026-01-29 17:47:30,838 - DataProcessor - INFO - 成功处理文件数: 1/1
+2026-01-29 17:47:31,500 - DataProcessor - INFO - 开始导入文件到表 table_b
+2026-01-29 17:47:31,502 - DataProcessor - INFO - 开始内存使用: 250.37 MB
+2026-01-29 17:47:31,502 - DataProcessor - INFO - 文件数量: 1
+2026-01-29 17:47:31,502 - DataProcessor - INFO - 开始处理文件 1/1: part-00000-f879ccc0-0ac2-418f-804a-78e8ea879e0e-c000.csv
+2026-01-29 17:47:31,502 - DataProcessor - INFO - 文件大小: 5.24 MB
+2026-01-29 17:47:31,503 - DataProcessor - INFO - 使用CSV读取器
+2026-01-29 17:47:31,690 - DataProcessor - INFO - 处理数据块 1，大小: 16678 行
+2026-01-29 17:47:31,756 - DataProcessor - INFO - 创建表: table_b
+2026-01-29 17:47:31,757 - DataProcessor - INFO - 表创建成功
+2026-01-29 17:47:31,786 - DataProcessor - INFO - 批量插入 16678 行数据
+2026-01-29 17:47:31,989 - DataProcessor - INFO - 当前内存使用: 268.75 MB，增长: 18.38 MB
+2026-01-29 17:47:31,993 - DataProcessor - INFO - 提交最终事务
+2026-01-29 17:47:32,561 - DataProcessor - INFO - 事务重新开始
+2026-01-29 17:47:32,562 - DataProcessor - INFO - 文件处理完成，导入 16678 行数据
+2026-01-29 17:47:32,562 - DataProcessor - INFO - 文件导入完成
+2026-01-29 17:47:32,562 - DataProcessor - INFO - 总处理时间: 1.06 秒
+2026-01-29 17:47:32,562 - DataProcessor - INFO - 总导入行数: 16678
+2026-01-29 17:47:32,563 - DataProcessor - INFO - 处理速度: 15712.38 行/秒
+2026-01-29 17:47:32,563 - DataProcessor - INFO - 内存使用变化: 250.37 MB → 259.02 MB (增长: 8.65 MB)
+2026-01-29 17:47:32,563 - DataProcessor - INFO - 成功处理文件数: 1/1
+2026-01-29 17:47:35,253 - DataProcessor - INFO - 开始关闭数据库连接并清理资源
+2026-01-29 17:47:35,254 - DataProcessor - INFO - 标记为停止处理
+2026-01-29 17:47:35,254 - DataProcessor - INFO - 开始关闭数据库连接
+2026-01-29 17:47:35,255 - DataProcessor - INFO - 提交未完成的事务
+2026-01-29 17:47:35,267 - DataProcessor - INFO - 数据库连接关闭成功
+2026-01-29 17:47:35,267 - DataProcessor - INFO - 数据库连接对象清理完成
+2026-01-29 17:47:35,267 - DataProcessor - INFO - 开始清理临时文件: C:\Users\iswhat\AppData\Local\Temp\tmpctfr6lxl.db
+2026-01-29 17:47:35,272 - DataProcessor - INFO - 第 1 次尝试删除临时文件成功
+2026-01-29 17:47:35,272 - DataProcessor - INFO - 临时文件 C:\Users\iswhat\AppData\Local\Temp\tmpctfr6lxl.db 删除成功
+2026-01-29 17:47:35,273 - DataProcessor - INFO - 临时文件路径清理完成
+2026-01-29 17:47:35,273 - DataProcessor - INFO - 开始关闭线程池
+2026-01-29 17:47:35,273 - DataProcessor - INFO - 线程池工作队列清空成功
+2026-01-29 17:47:35,273 - DataProcessor - INFO - 线程池关闭成功
+2026-01-29 17:47:35,274 - DataProcessor - INFO - 线程池对象清理完成
+2026-01-29 17:47:35,274 - DataProcessor - INFO - 清理其他属性完成
+2026-01-29 17:47:35,274 - DataProcessor - INFO - 开始强制垃圾回收
+2026-01-29 17:47:35,296 - DataProcessor - INFO - 第 1 次垃圾回收完成
+2026-01-29 17:47:35,315 - DataProcessor - INFO - 第 2 次垃圾回收完成
+2026-01-29 17:47:35,331 - DataProcessor - INFO - 第 3 次垃圾回收完成
+2026-01-29 17:47:35,331 - DataProcessor - INFO - 循环引用清理完成
+2026-01-29 17:47:35,332 - DataProcessor - INFO - 数据库连接关闭和资源清理完成
+2026-01-29 18:08:28,420 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 18:08:28,431 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 18:08:28,440 - SetOpsUI - INFO - File list widget set for dataset A
+2026-01-29 18:08:28,440 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 18:08:28,455 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 18:08:28,463 - SetOpsUI - INFO - File list widget set for dataset B
+2026-01-29 18:08:28,463 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B
+2026-01-29 18:15:37,454 - SetOpsUI - WARNING - 图标文件不存在: C:\Users\iswhat\AppData\Local\Temp\_MEI278562\SetOps.ico
+2026-01-29 18:15:37,567 - SetOpsUI - INFO - SetOps应用程序启动
+2026-01-29 18:15:38,212 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset A
+2026-01-29 18:15:38,221 - SetOpsUI - INFO - File list widget set for dataset A
+2026-01-29 18:15:38,221 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: A
+2026-01-29 18:15:38,234 - SetOpsUI - INFO - FileSelectorWidget initialized for dataset B
+2026-01-29 18:15:38,240 - SetOpsUI - INFO - File list widget set for dataset B
+2026-01-29 18:15:38,240 - SetOpsUI - INFO - 拖拽框架设置完成，数据集ID: B

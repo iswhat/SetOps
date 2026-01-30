@@ -1,0 +1,8 @@
+# Python依赖
+pandas
+numpy
+openpyxl
+xlrd
+psutil
+websockets
+PySide6
