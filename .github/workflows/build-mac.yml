@@ -22,11 +22,11 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install PySide6 pandas numpy psutil PyInstaller
+        pip install PySide6 pandas numpy psutil PyInstaller Pillow
     
     - name: Build application
       run: |
-        pyinstaller --onefile --windowed --name SetOps --icon SetOps.ico --add-data "backend:backend" SetOpsUI.py
+        pyinstaller --onedir --windowed --name SetOps --icon SetOps.ico --add-data "backend:backend" SetOpsUI.py
     
     - name: Upload build artifact
       uses: actions/upload-artifact@v4
